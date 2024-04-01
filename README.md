@@ -40,7 +40,7 @@ The React Quiz harnesses the power of React's `useReducer` hook to manage comple
 
 ## About
 
-This project is part of Jonas Schmedtman's React course, bringing you a hands-on experience with React concepts and best practices.
+This project is part of Jonas Schmedtmann's React course, bringing you a hands-on experience with React concepts and best practices.
 
 
 🚀 Happy quizzing with The React Quiz!
